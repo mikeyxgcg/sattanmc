@@ -1,1 +1,2 @@
-# sattanmc
+# devel ✨
+Epic Discord Bot
